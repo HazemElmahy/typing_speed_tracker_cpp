@@ -1,0 +1,1 @@
+alias my_gcc="gcc -ggdb -pedantic-errors -Wall -Weffc++ -Wextra -Wconversion -Wsign-conversion"
